@@ -26,3 +26,7 @@ Future Improvements:
     Use Database to hold events  
     Login functionality
     
+
+Screenshots:
+
+<img src="Screenshots/IMG_5847.PNG" width="20%"> <img src="Screenshots/IMG_5848.PNG" width="20%"> <img src="Screenshots/IMG_5849.PNG" width="20%"> <img src="Screenshots/IMG_5850.PNG" width="20%">
