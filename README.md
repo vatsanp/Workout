@@ -1,7 +1,6 @@
 # Workout
 An iOS fitness app
 
-Shopify Mobile Developer Intern Challenge (iOS)
 
 Program:	Workout
 
